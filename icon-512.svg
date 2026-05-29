@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 192 192">
+<rect width="512" height="512" rx="35" fill="#1f3b57"/>
+<path d="M42 92 L96 48 L150 92 V154 H112 V112 H80 V154 H42 Z" fill="white"/>
+<rect x="78" y="132" width="36" height="22" fill="#d9e2ec"/>
+<text x="96" y="179" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="white">SCHULE</text>
+</svg>
