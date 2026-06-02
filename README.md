@@ -1,20 +1,16 @@
-# SchulManager – Hausmeisterportal
+# SchulManager Offline v1.4.1
 
-Version mit auswählbaren Schadens-/Meldungsarten je Bereich.
+Offline-Version auf dem Stand der Cloud-Version.
 
-## Neu
+## Enthalten
+- Foto-Manager
+- Kamera / Galerie / Dateien / Drag & Drop
+- Mobile Kartenansicht
+- Login
+- Export/Import inkl. Fotos
+- Update-Prüfung
+- Changelog als Dropdown
+- lokale Speicherung per localStorage
 
-- Im Feld „Meldung / Schaden“ gibt es jetzt passende Auswahlmöglichkeiten.
-- Die Auswahl passt sich automatisch dem gewählten Bereich an.
-- Bei „Sonstiges“ erscheint ein eigenes Eingabefeld.
-
-## Funktionen
-
-- Meldungen für verschiedene Schulbereiche
-- Fotos mit Mehrfachauswahl und Drag & Drop
-- Großansicht der Fotos
-- Nachträgliches Bearbeiten
-- Suche und Bereichsfilter
-- Drucken / PDF
-- Sicherung exportieren und importieren
-- Als PWA auf Android installierbar
+## Ohne Firebase
+Diese Version ist für öffentliche GitHub-Nutzung geeignet, weil keine Firebase-Konfiguration enthalten ist.

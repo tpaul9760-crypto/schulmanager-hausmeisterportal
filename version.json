@@ -1,0 +1,5 @@
+{
+  "version": "1.4.1-offline",
+  "hinweis": "Offline-Version auf dem Stand der Cloud-Version.",
+  "changelog": "v1.4.1 Offline\n- Foto-Manager\n- Mobile Ansicht\n- Login\n- Export/Import inkl. Fotos\n- Update-Prüfung\n- Changelog als Dropdown\n- Keine Firebase-Anbindung"
+}
